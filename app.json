@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Kushalhk/TG_BOTZ",
-    "repository": "https://github.com/Kushalhk/TG_BOTZ",
+    "website": "https://github.com/sonali1563",
+    "repository": "https://github.com/sonali1563/TG-BOTS",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
